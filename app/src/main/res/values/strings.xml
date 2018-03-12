@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCurriclum</string>
+    <string name="studentnumber">学号：</string>
+    <string name="password">密码：</string>
+    <string name="login">登录</string>
+    <string name="remember">记住密码</string>
+    <string name="autologin">自动登录</string>
+    <string name="CourseActivity">CourseActivity</string>
+    <string name="MainActivity">MainActivity</string>
+    <string name="Unsubscribe">注销</string>
+    <string name="monday">一</string>
+    <string name="tuesday">二</string>
+    <string name="wednesday">三</string>
+    <string name="thursday">四</string>
+    <string name="friday">五</string>
+    <string name="saturday">六</string>
+    <string name="sunday">七</string>
+
+</resources>

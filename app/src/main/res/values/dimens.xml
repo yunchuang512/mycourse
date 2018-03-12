@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--课程信息背景-矩形圆角半径-->
+    <dimen name="corners_radius">4dp</dimen>
+    <!--课程信息背景-矩形的长与宽-->
+    <dimen name="rectangle_width">60dp</dimen>
+    <dimen name="rectangle_height">60dp</dimen>
+</resources>

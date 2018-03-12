@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--课程标签的背景数组-->
+    <array name="CurriculumBackgrounds">
+        <item>@drawable/select_label_1</item>
+        <item>@drawable/select_label_2</item>
+        <item>@drawable/select_label_3</item>
+        <item>@drawable/select_label_4</item>
+        <item>@drawable/select_label_5</item>
+        <item>@drawable/select_label_6</item>
+        <item>@drawable/select_label_7</item>
+        <item>@drawable/select_label_8</item>
+        <item>@drawable/select_label_9</item>
+        <item>@drawable/select_label_10</item>
+        <item>@drawable/select_label_11</item>
+        <item>@drawable/select_label_12</item>
+        <item>@drawable/select_label_13</item>
+        <item>@drawable/select_label_14</item>
+        <item>@drawable/select_label_15</item>
+    </array>
+</resources>

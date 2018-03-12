@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#7d5b6bd0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="view_line">#ffe6e6e6</color>
+    <color name="text_color">#333</color>
+    <!-- 课程表信息-矩形背景色 -->
+    <color name="ic_coure_yi">#888AD297</color>
+    <color name="ic_coure_yi_pr">#885ABF6C</color>
+
+    <color name="ic_coure_er">#88F9A883</color>
+    <color name="ic_coure_er_pr">#88F79060</color>
+
+    <color name="ic_coure_san">#8888CFFF</color>
+    <color name="ic_coure_san_pr">#8863C0FF</color>
+
+    <color name="ic_coure_si">#88F19C99</color>
+    <color name="ic_coure_si_pr">#88ED837F</color>
+
+    <color name="ic_coure_wu">#88F7C56B</color>
+    <color name="ic_coure_wu_pr">#88F5B94E</color>
+
+    <color name="ic_coure_liu">#88FF1100</color>
+    <color name="ic_coure_liu_pr">#88FF0000</color>
+
+    <color name="ic_coure_qi">#886723DE</color>
+    <color name="ic_coure_qi_pr">#886723DF</color>
+
+    <color name="ic_coure_ba">#889CCF5A</color>
+    <color name="ic_coure_ba_pr">#888BC73D</color>
+
+    <color name="ic_coure_jiu">#889AB4CF</color>
+    <color name="ic_coure_jiu_pr">#8887A6C6</color>
+
+    <color name="ic_coure_yisi">#889AB4CF</color>
+    <color name="ic_coure_yisi_pr">#8887A6C6</color>
+
+    <color name="ic_coure_yier">#88E593AD</color>
+    <color name="ic_coure_yier_pr">#886DB69C</color>
+
+    <color name="ic_coure_yisan">#88E593AD</color>
+    <color name="ic_coure_yisan_pr">#88DF7999</color>
+
+    <color name="ic_coure_yis">#88E2C38A</color>
+    <color name="ic_coure_yis_pr">#88D6A858</color>
+
+    <color name="ic_coure_yiwu">#88B29FD2</color>
+    <color name="ic_coure_yiwu_pr">#88997FC3</color>
+
+    <color name="ic_coure_yiliu">#88E2C490</color>
+    <color name="ic_coure_yiliu_pr">#88DDB97B</color>
+
+    <color name="ic_coure_wuw">#887B7B7B</color>
+    <color name="ic_coure_wuw_pr">#88ADADAD</color>
+</resources>
